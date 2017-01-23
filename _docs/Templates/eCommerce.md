@@ -8,10 +8,6 @@ This is from Virgin America.
 
 > Putting items checked out at the top saves screen real estate.
 
-To sync your contacts:
+![Virgin America screenshot](images/_virginscreenshot.png)
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+> Form language like "nice name" verifies and gives interaction a human touch.
