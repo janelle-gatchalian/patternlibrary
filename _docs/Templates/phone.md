@@ -1,6 +1,6 @@
 ---
-title: Phone
-category: Contact Syncing
+title: Forms
+category: Templates
 order: 2
 ---
 
