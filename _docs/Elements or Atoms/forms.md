@@ -1,5 +1,5 @@
 ---
 title: Forms
-category: Templates
+category: Elements or Atoms
 order: 2
 ---
