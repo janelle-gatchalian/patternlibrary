@@ -6,8 +6,8 @@ order: 1
 
 This is from Virgin America.
 
-> Putting items checked out at the top saves screen real estate.
+> The shopping cart from Virgin America is at the top and in horizontal format. It saves screen space.
 
 ![Virgin America screenshot](/images/virginscreenshot.png)
 
-> Form language like "nice name" verifies and gives interaction a human touch.
+> The field validation feedback "nice name" is functional and is a lighthearted human touch.
