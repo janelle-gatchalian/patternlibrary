@@ -1,0 +1,40 @@
+<svg id="Group_33" data-name="Group 33" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="45 31.5 309 79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        opacity: 0.54;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        font-size: 24px;
+        font-family: Roboto-Regular, Roboto;
+        opacity: 0.38;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="232" height="42"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3">
+    <g id="ic_search_" data-name="ic_search " class="cls-2" transform="translate(13.35 14.8)">
+      <rect id="square" class="cls-1" width="48" height="48" transform="translate(31.65 47.7)"/>
+      <path id="path" d="M59.4,72.7H57.8l-.6-.6a12.518,12.518,0,0,0,3.2-8.4,13,13,0,1,0-13,13,12.518,12.518,0,0,0,8.4-3.2l.6.6v1.6l10,10,3-3Zm-12,0a9,9,0,1,1,9-9A8.963,8.963,0,0,1,47.4,72.7Z" transform="translate(3.25 -29)"/>
+    </g>
+  </g>
+  <g id="Group_24" data-name="Group 24">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-3" transform="translate(122 31.5)">
+      <g id="ui_search_items" transform="translate(-112 -779.5)">
+        <rect id="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+        <text id="Search_people_places" data-name="Search people &amp; places" class="cls-4" transform="translate(112 804.5)"><tspan x="0" y="0">Search</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

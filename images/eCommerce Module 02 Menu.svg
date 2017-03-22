@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1963 128 1974.5 183">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fafafa;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        font-size: 24px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        opacity: 0.381;
+      }
+
+      .cls-5 {
+        opacity: 0.379;
+      }
+
+      .cls-6 {
+        opacity: 0.377;
+      }
+
+      .cls-7 {
+        opacity: 0.379;
+      }
+
+      .cls-8 {
+        opacity: 0.381;
+      }
+
+      .cls-9 {
+        opacity: 0.384;
+      }
+
+      .cls-10 {
+        opacity: 0.378;
+      }
+
+      .cls-11 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="1963" y="128" width="1974.5" height="183" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="1717.825" height="34"/>
+    </clipPath>
+  </defs>
+  <g id="Menu" transform="translate(1990)">
+    <g id="Menu-2" data-name="Menu">
+      <g id="Group_26" data-name="Group 26" transform="translate(0 -9)">
+        <g class="cls-11" transform="matrix(1, 0, 0, 1, -1990, 9)">
+          <rect id="rectangle-2" data-name="rectangle" class="cls-2" width="1920.5" height="129" transform="translate(1990 146)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Tab_Repeatable_Grid" data-name="Tab Repeatable Grid" class="cls-3" transform="translate(67.5 190.899)">
+      <g id="Group" transform="translate(-67.5 -190.899)">
+        <text id="tab_item" class="cls-4" transform="translate(405.276 218.899)"><tspan x="-46.904" y="0">Wedding</tspan></text>
+        <text id="tab_item-2" data-name="tab_item" class="cls-5" transform="translate(135.5 218.469)"><tspan x="-67.951" y="0">New Arrivals</tspan></text>
+        <text id="tab_item-3" data-name="tab_item" class="cls-6" transform="translate(671.802 218.899)"><tspan x="-33.369" y="0">Shoes</tspan></text>
+        <text id="tab_item-4" data-name="tab_item" class="cls-7" transform="translate(939.183 218.899)"><tspan x="-66.123" y="0">Accessories</tspan></text>
+        <text id="tab_item-5" data-name="tab_item" class="cls-8" transform="translate(1206.563 218.899)"><tspan x="-37.002" y="0">Beauty</tspan></text>
+        <text id="tab_item-6" data-name="tab_item" class="cls-9" transform="translate(1473.944 218.899)"><tspan x="-23.238" y="0">Sale</tspan></text>
+        <text id="tab_item-7" data-name="tab_item" class="cls-10" transform="translate(1741.325 218.899)"><tspan x="-43.406" y="0">Dresses</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

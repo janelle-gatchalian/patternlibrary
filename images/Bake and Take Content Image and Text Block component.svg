@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="6703.62 224 511.638 371.594">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #95989a;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+        font-family: Roboto-Regular, Roboto;
+        opacity: 0.539;
+      }
+
+      .cls-4 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="6703.62" y="224" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Content_Image_and_Text_Block_component" data-name="Content Image and Text Block component" transform="translate(6617 -3)">
+    <g id="Group">
+      <g class="cls-4" transform="matrix(1, 0, 0, 1, -6617, 3)">
+        <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="457.638" height="317.594" transform="translate(6730.62 242)"/>
+      </g>
+      <line id="Line_19" data-name="Line 19" class="cls-2" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+      <line id="Line_20" data-name="Line 20" class="cls-2" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+    </g>
+    <text id="Prep_Time:_Bake_Time:_" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-3" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+  </g>
+</svg>

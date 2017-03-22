@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3953 127.984 340.859 988.016">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fafafa;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 18px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        opacity: 0.382;
+      }
+
+      .cls-5 {
+        fill: #4285f4;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-7 {
+        fill-rule: evenodd;
+        opacity: 0.54;
+      }
+
+      .cls-8 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="3953" y="127.984" width="340.859" height="988.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="102" height="473.997"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="24" height="474"/>
+    </clipPath>
+  </defs>
+  <g id="Group_33" data-name="Group 33" transform="translate(3980)">
+    <g id="Group_27" data-name="Group 27" transform="translate(0 -9.016)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, -3980, 9.02)">
+        <rect id="rectangle-2" data-name="rectangle" class="cls-2" width="286.859" height="934.016" transform="translate(3980 145.98)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-3" transform="translate(45 187)">
+      <g id="Group" transform="translate(-45 -318.28)">
+        <text id="text" class="cls-4" transform="translate(45 335.28)"><tspan x="0" y="0">New Arrivals</tspan></text>
+        <text id="text-2" data-name="text" class="cls-4" transform="translate(45 410.779)"><tspan x="0" y="0">Wedding</tspan></text>
+        <text id="text-3" data-name="text" class="cls-4" transform="translate(45 486.279)"><tspan x="0" y="0">Shoes</tspan></text>
+        <text id="text-4" data-name="text" class="cls-4" transform="translate(45 561.778)"><tspan x="0" y="0">Accessories</tspan></text>
+        <text id="text-5" data-name="text" class="cls-4" transform="translate(45 637.278)"><tspan x="0" y="0">Beauty</tspan></text>
+        <text id="text-6" data-name="text" class="cls-4" transform="translate(45 712.777)"><tspan x="0" y="0">Sale</tspan></text>
+        <text id="text-7" data-name="text" class="cls-5" transform="translate(45 788.277)"><tspan x="0" y="0">Dresses</tspan></text>
+      </g>
+    </g>
+    <text id="text-8" data-name="text" class="cls-4" transform="translate(79 708.776)"><tspan x="0" y="0">Casual &amp; Everyday</tspan></text>
+    <text id="text-9" data-name="text" class="cls-4" transform="translate(80 755.276)"><tspan x="0" y="0">Occassion &amp; Cocktail</tspan></text>
+    <text id="text-10" data-name="text" class="cls-4" transform="translate(80 801.276)"><tspan x="0" y="0">Tunic &amp; Swing</tspan></text>
+    <text id="text-11" data-name="text" class="cls-4" transform="translate(80 893.276)"><tspan x="0" y="0">Fit &amp; Flare</tspan></text>
+    <text id="text-12" data-name="text" class="cls-4" transform="translate(80 847.276)"><tspan x="0" y="0">Maxi &amp; Midi</tspan></text>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" class="cls-6" transform="translate(227 187)">
+      <g id="ic_add">
+        <rect id="rectangle-3" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-2" data-name="ic_add" transform="translate(0 74)">
+        <rect id="rectangle-4" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-2" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-3" data-name="ic_add" transform="translate(0 148)">
+        <rect id="rectangle-5" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-3" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-4" data-name="ic_add" transform="translate(0 222)">
+        <rect id="rectangle-6" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-4" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-5" data-name="ic_add" transform="translate(0 296)">
+        <rect id="rectangle-7" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-5" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-6" data-name="ic_add" transform="translate(0 370)">
+        <rect id="rectangle-8" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-6" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-7" data-name="ic_add" transform="translate(0 444)">
+        <rect id="rectangle-9" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-7" data-name="path" class="cls-7" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

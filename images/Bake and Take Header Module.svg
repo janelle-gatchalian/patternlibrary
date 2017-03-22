@@ -1,0 +1,85 @@
+<svg id="Header_Module" data-name="Header Module" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-27 -18 1974 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+        opacity: 0.874;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        opacity: 0.54;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6, .cls-7 {
+        font-size: 24px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6 {
+        opacity: 0.38;
+      }
+
+      .cls-7 {
+        opacity: 0.542;
+      }
+
+      .cls-8 {
+        filter: url(#rectangle-2);
+      }
+
+      .cls-9 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="-27" y="-18" width="1974" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-2" x="44" y="20.192" width="239" height="65.308" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-9" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="rectangle-3" data-name="rectangle" class="cls-1" d="M0,0H1920V146H0Z"/>
+  </g>
+  <g id="Bake_and_Take_Logo_Element" data-name="Bake and Take Logo Element" transform="translate(-71 -2)">
+    <text id="Bake_and_Take" data-name="Bake and Take" class="cls-2" transform="translate(875 89)"><tspan x="0" y="0">Bake and Take</tspan></text>
+  </g>
+  <g id="Search_bar_for_craving_Component" data-name="Search bar for craving Component">
+    <g class="cls-8" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="rectangle-4" data-name="rectangle" class="cls-3" width="221" height="47.308" rx="1" transform="translate(53 26.19)"/>
+    </g>
+    <g id="Search_icon" data-name="Search icon" transform="translate(5)">
+      <g id="ic_search_" data-name="ic_search " class="cls-4" transform="translate(13.35 14.8)">
+        <rect id="square" class="cls-5" width="48" height="48" transform="translate(31.65 47.7)"/>
+        <path id="path" d="M59.4,72.7H57.8l-.6-.6a12.518,12.518,0,0,0,3.2-8.4,13,13,0,1,0-13,13,12.518,12.518,0,0,0,8.4-3.2l.6.6v1.6l10,10,3-3Zm-12,0a9,9,0,1,1,9-9A8.963,8.963,0,0,1,47.4,72.7Z" transform="translate(3.25 -29)"/>
+      </g>
+    </g>
+    <text id="Search_for_craving" data-name="Search for craving" class="cls-6" transform="translate(127 59.5)"><tspan x="0" y="0">Recipes?</tspan></text>
+    <text id="Browse_recipes" data-name="Browse recipes" class="cls-7" transform="translate(53 107.5)"><tspan x="0" y="0">Browse recipes.</tspan></text>
+  </g>
+  <text id="Basket" class="cls-7" transform="translate(1788 56.5)"><tspan x="0" y="0">Basket</tspan></text>
+  <text id="Fresh_Bakes" data-name="Fresh Bakes" class="cls-7" transform="translate(1625 56.5)"><tspan x="0" y="0">Fresh Bakes</tspan></text>
+  <text id="Log_in" data-name="Log in" class="cls-7" transform="translate(1524 56.5)"><tspan x="0" y="0">Log in </tspan></text>
+</svg>

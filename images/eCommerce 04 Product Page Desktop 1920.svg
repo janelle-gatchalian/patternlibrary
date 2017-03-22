@@ -1,0 +1,505 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="5970 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-16, .cls-19 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Product_Page_Desktop_1920);
+      }
+
+      .cls-3 {
+        fill: #fafafa;
+      }
+
+      .cls-14, .cls-4 {
+        fill: #95989a;
+      }
+
+      .cls-4 {
+        font-size: 36px;
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-12, .cls-5 {
+        opacity: 0.54;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        font-size: 24px;
+        opacity: 0.38;
+      }
+
+      .cls-14, .cls-18, .cls-7 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10, .cls-14, .cls-18, .cls-9 {
+        font-size: 18px;
+      }
+
+      .cls-10, .cls-9 {
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        opacity: 0.382;
+      }
+
+      .cls-10 {
+        fill: #4285f4;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-12 {
+        fill-rule: evenodd;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-15 {
+        fill: #ea7c85;
+        stroke-width: 3px;
+        opacity: 0.568;
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #95989a;
+      }
+
+      .cls-16, .cls-19 {
+        stroke-width: 1px;
+      }
+
+      .cls-17 {
+        fill: rgba(0,0,0,0.54);
+      }
+
+      .cls-18 {
+        opacity: 0.87;
+      }
+
+      .cls-19 {
+        stroke: #231f20;
+        opacity: 0.16;
+      }
+
+      .cls-20 {
+        stroke: none;
+      }
+
+      .cls-21 {
+        fill: #fff;
+      }
+
+      .cls-22 {
+        filter: url(#rectangle-10);
+      }
+
+      .cls-23 {
+        filter: url(#rectangle-9);
+      }
+
+      .cls-24 {
+        filter: url(#rectangle-8);
+      }
+
+      .cls-25 {
+        filter: url(#rectangle-7);
+      }
+
+      .cls-26 {
+        filter: url(#rectangle-6);
+      }
+
+      .cls-27 {
+        filter: url(#rectangle-5);
+      }
+
+      .cls-28 {
+        filter: url(#rectangle-4);
+      }
+
+      .cls-29 {
+        filter: url(#rectangle-3);
+      }
+
+      .cls-30 {
+        filter: url(#rectangle-2);
+      }
+
+      .cls-31 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="5943" y="-18" width="1974" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="232" height="42"/>
+    </clipPath>
+    <filter id="rectangle-2" x="5943" y="127.984" width="340.859" height="988.016" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="102" height="473.997"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="24" height="474"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="1519.931" height="914"/>
+    </clipPath>
+    <filter id="rectangle-3" x="6269.569" y="190" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-4" x="6666.569" y="190" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-4"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-5" x="7063.569" y="190" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-5"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-6" x="7460.569" y="190" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-6"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-7" x="6269.569" y="653" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-7"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-8" x="6666.569" y="653" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-8"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-9" x="7063.569" y="653" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-9"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-10" x="7460.569" y="653" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-10"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Product_Page_Desktop_1920">
+      <rect x="5970" width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Product_Page_Desktop_1920" data-name="Product Page Desktop 1920" class="cls-2">
+    <rect class="cls-21" x="5970" width="1920" height="1080"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(5970)">
+      <g id="Group_1" data-name="Group 1">
+        <g class="cls-31" transform="matrix(1, 0, 0, 1, -5970, 0)">
+          <path id="rectangle-11" data-name="rectangle" class="cls-3" d="M0,0H1920V146H0Z" transform="translate(5970)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(5970)">
+      <text id="LOGO" class="cls-4" transform="translate(914 87)"><tspan x="0" y="0">LOGO</tspan></text>
+    </g>
+    <g id="ui_search_items" transform="translate(6204 -204)">
+      <rect id="rectangle-12" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+    </g>
+    <g id="Group_25" data-name="Group 25" transform="translate(5970)">
+      <g id="Group_3" data-name="Group 3">
+        <g id="ic_search_" data-name="ic_search " class="cls-5" transform="translate(13.35 14.8)">
+          <rect id="square" class="cls-1" width="48" height="48" transform="translate(31.65 47.7)"/>
+          <path id="path" d="M59.4,72.7H57.8l-.6-.6a12.518,12.518,0,0,0,3.2-8.4,13,13,0,1,0-13,13,12.518,12.518,0,0,0,8.4-3.2l.6.6v1.6l10,10,3-3Zm-12,0a9,9,0,1,1,9-9A8.963,8.963,0,0,1,47.4,72.7Z" transform="translate(3.25 -29)"/>
+        </g>
+      </g>
+      <g id="Group_24" data-name="Group 24">
+        <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-6" transform="translate(122 31.5)">
+          <g id="ui_search_items-2" data-name="ui_search_items" transform="translate(-112 -779.5)">
+            <rect id="rectangle-13" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+            <text id="Search_people_places" data-name="Search people &amp; places" class="cls-7" transform="translate(112 804.5)"><tspan x="0" y="0">Search</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="ui_search_items-3" data-name="ui_search_items" transform="translate(1676 -751)">
+        <rect id="rectangle-14" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+        <g id="Group_22" data-name="Group 22">
+          <g id="Group_21" data-name="Group 21">
+            <g id="Group_20" data-name="Group 20">
+              <g id="Group_19" data-name="Group 19">
+                <g id="Group_18" data-name="Group 18">
+                  <text id="Search_people_places-2" data-name="Search people &amp; places" class="cls-7" transform="translate(112 807.5)"><tspan x="0" y="0">Cart</tspan></text>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="ui_search_items-4" data-name="ui_search_items" transform="translate(1412 -748)">
+        <rect id="rectangle-15" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+        <g id="Group_8" data-name="Group 8">
+          <g id="Group_7" data-name="Group 7">
+            <g id="Group_6" data-name="Group 6">
+              <text id="Search_people_places-3" data-name="Search people &amp; places" class="cls-7" transform="translate(112 804.5)"><tspan x="0" y="0">Log in </tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="ui_search_items-5" data-name="ui_search_items" transform="translate(1543 -748)">
+        <rect id="rectangle-16" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+        <g id="Group_17" data-name="Group 17">
+          <g id="Group_16" data-name="Group 16">
+            <g id="Group_15" data-name="Group 15">
+              <g id="Group_14" data-name="Group 14">
+                <g id="Group_13" data-name="Group 13">
+                  <g id="Group_12" data-name="Group 12">
+                    <g id="Group_11" data-name="Group 11">
+                      <g id="Group_10" data-name="Group 10">
+                        <g id="Group_9" data-name="Group 9">
+                          <text id="Search_people_places-4" data-name="Search people &amp; places" class="cls-7" transform="translate(112 804.5)"><tspan x="0" y="0">Sign up</tspan></text>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_27" data-name="Group 27" transform="translate(5970 -9.016)">
+      <g class="cls-30" transform="matrix(1, 0, 0, 1, -5970, 9.02)">
+        <rect id="rectangle-17" data-name="rectangle" class="cls-3" width="286.859" height="934.016" transform="translate(5970 145.98)"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-8" transform="translate(6015 187)">
+      <g id="Group" transform="translate(-45 -318.28)">
+        <text id="text" class="cls-9" transform="translate(45 335.28)"><tspan x="0" y="0">New Arrivals</tspan></text>
+        <text id="text-2" data-name="text" class="cls-9" transform="translate(45 410.779)"><tspan x="0" y="0">Wedding</tspan></text>
+        <text id="text-3" data-name="text" class="cls-9" transform="translate(45 486.279)"><tspan x="0" y="0">Shoes</tspan></text>
+        <text id="text-4" data-name="text" class="cls-9" transform="translate(45 561.778)"><tspan x="0" y="0">Accessories</tspan></text>
+        <text id="text-5" data-name="text" class="cls-9" transform="translate(45 637.278)"><tspan x="0" y="0">Beauty</tspan></text>
+        <text id="text-6" data-name="text" class="cls-9" transform="translate(45 712.777)"><tspan x="0" y="0">Sale</tspan></text>
+        <text id="text-7" data-name="text" class="cls-10" transform="translate(45 788.277)"><tspan x="0" y="0">Dresses</tspan></text>
+      </g>
+    </g>
+    <text id="text-8" data-name="text" class="cls-9" transform="translate(6049 708.776)"><tspan x="0" y="0">Casual &amp; Everyday</tspan></text>
+    <text id="text-9" data-name="text" class="cls-9" transform="translate(6050 755.276)"><tspan x="0" y="0">Occassion &amp; Cocktail</tspan></text>
+    <text id="text-10" data-name="text" class="cls-9" transform="translate(6050 801.276)"><tspan x="0" y="0">Tunic &amp; Swing</tspan></text>
+    <text id="text-11" data-name="text" class="cls-9" transform="translate(6050 893.276)"><tspan x="0" y="0">Fit &amp; Flare</tspan></text>
+    <text id="text-12" data-name="text" class="cls-9" transform="translate(6050 847.276)"><tspan x="0" y="0">Maxi &amp; Midi</tspan></text>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-11" transform="translate(6197 187)">
+      <g id="ic_add">
+        <rect id="rectangle-18" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-2" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-2" data-name="ic_add" transform="translate(0 74)">
+        <rect id="rectangle-19" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-3" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-3" data-name="ic_add" transform="translate(0 148)">
+        <rect id="rectangle-20" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-4" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-4" data-name="ic_add" transform="translate(0 222)">
+        <rect id="rectangle-21" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-5" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-5" data-name="ic_add" transform="translate(0 296)">
+        <rect id="rectangle-22" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-6" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-6" data-name="ic_add" transform="translate(0 370)">
+        <rect id="rectangle-23" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-7" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+      <g id="ic_add-7" data-name="ic_add" transform="translate(0 444)">
+        <rect id="rectangle-24" data-name="rectangle" class="cls-1" width="24" height="24"/>
+        <path id="path-8" data-name="path" class="cls-12" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_1-2" data-name="Repeat Grid 1" class="cls-13" transform="translate(6296.569 208)">
+      <g id="Group-2" data-name="Group" transform="translate(-365.569 -187)">
+        <g id="Group_23" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-29" transform="matrix(1, 0, 0, 1, -6296.57, -49)">
+            <rect id="rectangle-25" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(6296.57 208)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(31.431 -187)">
+        <g id="Group_23-2" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-28" transform="matrix(1, 0, 0, 1, -6693.57, -49)">
+            <rect id="rectangle-26" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(6693.57 208)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_2" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-2" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-2" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-2" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-4" data-name="Group" transform="translate(428.431 -187)">
+        <g id="Group_23-3" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-27" transform="matrix(1, 0, 0, 1, -7090.57, -49)">
+            <rect id="rectangle-27" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(7090.57 208)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_3" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-3" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-3" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-3" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-5" data-name="Group" transform="translate(825.431 -187)">
+        <g id="Group_23-4" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-26" transform="matrix(1, 0, 0, 1, -7487.57, -49)">
+            <rect id="rectangle-28" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(7487.57 208)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_4" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-4" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-4" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-4" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-6" data-name="Group" transform="translate(-365.569 276)">
+        <g id="Group_23-5" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-25" transform="matrix(1, 0, 0, 1, -6296.57, -512)">
+            <rect id="rectangle-29" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(6296.57 671)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_5" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-5" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-5" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-5" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-7" data-name="Group" transform="translate(31.431 276)">
+        <g id="Group_23-6" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-24" transform="matrix(1, 0, 0, 1, -6693.57, -512)">
+            <rect id="rectangle-30" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(6693.57 671)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_6" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-6" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-6" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-6" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-8" data-name="Group" transform="translate(428.431 276)">
+        <g id="Group_23-7" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-23" transform="matrix(1, 0, 0, 1, -7090.57, -512)">
+            <rect id="rectangle-31" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(7090.57 671)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_7" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-7" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-7" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-7" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+      <g id="Group-9" data-name="Group" transform="translate(825.431 276)">
+        <g id="Group_23-8" data-name="Group 23" transform="translate(365.569 28)">
+          <g class="cls-22" transform="matrix(1, 0, 0, 1, -7487.57, -512)">
+            <rect id="rectangle-32" data-name="rectangle" class="cls-3" width="272.368" height="314.641" transform="translate(7487.57 671)"/>
+          </g>
+        </g>
+        <text id="Deloria_Printed_Silk_Dress_168.00_8" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-14" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+        <g id="Ellipse_1-8" data-name="Ellipse 1" class="cls-15" transform="translate(367 583)">
+          <circle class="cls-20" cx="15.5" cy="15.5" r="15.5"/>
+          <circle class="cls-1" cx="15.5" cy="15.5" r="14"/>
+        </g>
+        <line id="Line_17-8" data-name="Line 17" class="cls-16" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+        <line id="Line_18-8" data-name="Line 18" class="cls-16" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+      </g>
+    </g>
+    <text id="_266_results" data-name="266 results" class="cls-14" transform="translate(6297 184)"><tspan x="0" y="0">266 results</tspan></text>
+    <g id="ui_menu_1" transform="translate(6265.083 109)">
+      <g id="ic_arrow_drop_down_2" transform="translate(257.672 52.936)">
+        <rect id="rectangle-33" data-name="rectangle" class="cls-1" width="29.328" height="29.33"/>
+        <path id="path-9" data-name="path" class="cls-17" d="M79,23l6.11,6.11L91.22,23Z" transform="translate(-70.446 -10.779)"/>
+      </g>
+      <text id="font" class="cls-18" transform="translate(179.269 73.936)"><tspan x="0" y="0">Sort by</tspan><tspan x="0" y="21"></tspan></text>
+      <g id="menu" transform="translate(151.917 47.5)">
+        <line id="bottom_line" data-name="bottom line" class="cls-19" x2="135.083" transform="translate(0)"/>
+        <line id="top_line" data-name="top line" class="cls-19" x2="135.083" transform="translate(0 40.908)"/>
+      </g>
+    </g>
+  </g>
+</svg>

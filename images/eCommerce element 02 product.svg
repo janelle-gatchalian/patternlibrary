@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="6269.569 190 326.368 445">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+
+      .cls-2 {
+        fill: #95989a;
+        font-size: 18px;
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-3 {
+        fill: #ea7c85;
+        stroke-width: 3px;
+        opacity: 0.568;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #95989a;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke-width: 1px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="6269.569" y="190" width="326.368" height="368.641" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(5931 21)">
+    <g id="Group_23" data-name="Group 23" transform="translate(365.569 28)">
+      <g class="cls-7" transform="matrix(1, 0, 0, 1, -6296.57, -49)">
+        <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="272.368" height="314.641" transform="translate(6296.57 208)"/>
+      </g>
+    </g>
+    <g id="Group_41" data-name="Group 41">
+      <text id="Deloria_Printed_Silk_Dress_168.00_" data-name="Deloria Printed Silk Dress
+$168.00
+" class="cls-2" transform="translate(367 540)"><tspan x="0" y="0">Deloria Printed Silk Dress</tspan><tspan x="0" y="30">$168.00</tspan><tspan x="0" y="60"></tspan></text>
+      <g id="Ellipse_1" data-name="Ellipse 1" class="cls-3" transform="translate(367 583)">
+        <circle class="cls-5" cx="15.5" cy="15.5" r="15.5"/>
+        <circle class="cls-6" cx="15.5" cy="15.5" r="14"/>
+      </g>
+      <line id="Line_17" data-name="Line 17" class="cls-4" x2="271" y2="314" transform="translate(366.5 187.5)"/>
+      <line id="Line_18" data-name="Line 18" class="cls-4" x1="272" y2="314" transform="translate(365.5 187.5)"/>
+    </g>
+  </g>
+</svg>

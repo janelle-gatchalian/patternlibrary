@@ -1,0 +1,63 @@
+<svg id="Account" xmlns="http://www.w3.org/2000/svg" viewBox="1524 34.5 496 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        font-size: 24px;
+        font-family: Roboto-Regular, Roboto;
+        opacity: 0.38;
+      }
+    </style>
+  </defs>
+  <g id="Account-2" data-name="Account">
+    <g id="ui_search_items" transform="translate(1676 -751)">
+      <rect id="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+      <g id="Group_22" data-name="Group 22">
+        <g id="Group_21" data-name="Group 21">
+          <g id="Group_20" data-name="Group 20">
+            <g id="Group_19" data-name="Group 19">
+              <g id="Group_18" data-name="Group 18">
+                <text id="Search_people_places" data-name="Search people &amp; places" class="cls-2" transform="translate(112 807.5)"><tspan x="0" y="0">Cart</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="ui_search_items-2" data-name="ui_search_items" transform="translate(1412 -748)">
+      <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+      <g id="Group_8" data-name="Group 8">
+        <g id="Group_7" data-name="Group 7">
+          <g id="Group_6" data-name="Group 6">
+            <text id="Search_people_places-2" data-name="Search people &amp; places" class="cls-2" transform="translate(112 804.5)"><tspan x="0" y="0">Log in </tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="ui_search_items-3" data-name="ui_search_items" transform="translate(1543 -748)">
+    <rect id="rectangle-3" data-name="rectangle" class="cls-1" width="232" height="32.308" transform="translate(112 789.192)"/>
+    <g id="Group_17" data-name="Group 17">
+      <g id="Group_16" data-name="Group 16">
+        <g id="Group_15" data-name="Group 15">
+          <g id="Group_14" data-name="Group 14">
+            <g id="Group_13" data-name="Group 13">
+              <g id="Group_12" data-name="Group 12">
+                <g id="Group_11" data-name="Group 11">
+                  <g id="Group_10" data-name="Group 10">
+                    <g id="Group_9" data-name="Group 9">
+                      <text id="Search_people_places-3" data-name="Search people &amp; places" class="cls-2" transform="translate(112 804.5)"><tspan x="0" y="0">Sign up</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="4025 631 206 266.276">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 18px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+        opacity: 0.382;
+      }
+
+      .cls-2 {
+        fill: #4285f4;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill-rule: evenodd;
+        opacity: 0.54;
+      }
+    </style>
+  </defs>
+  <g id="Dress_Category" data-name="Dress Category" transform="translate(3980)">
+    <text id="text" class="cls-1" transform="translate(79 708.776)"><tspan x="0" y="0">Casual &amp; Everyday</tspan></text>
+    <text id="text-2" data-name="text" class="cls-2" transform="translate(45 656.997)"><tspan x="0" y="0">Dresses</tspan></text>
+    <text id="text-3" data-name="text" class="cls-1" transform="translate(80 755.276)"><tspan x="0" y="0">Occassion &amp; Cocktail</tspan></text>
+    <text id="text-4" data-name="text" class="cls-1" transform="translate(80 801.276)"><tspan x="0" y="0">Tunic &amp; Swing</tspan></text>
+    <text id="text-5" data-name="text" class="cls-1" transform="translate(80 893.276)"><tspan x="0" y="0">Fit &amp; Flare</tspan></text>
+    <text id="text-6" data-name="text" class="cls-1" transform="translate(80 847.276)"><tspan x="0" y="0">Maxi &amp; Midi</tspan></text>
+    <g id="ic_add" transform="translate(227 631)">
+      <rect id="rectangle" class="cls-3" width="24" height="24"/>
+      <path id="path" class="cls-4" d="M11,5v6H5v2h6v6h2V13h6V11H13V5Z"/>
+    </g>
+  </g>
+</svg>
