@@ -7,9 +7,9 @@ order: 3
 <br>
 >This is a component with elements for tasks that have to do with account access such as logging in, signing up, and accessing a shopping cart.
 
-![eCommerce account component](/images/eCommerce Component 01 Account.svg)
+![eCommerce account component]({{site:baseurl}}/images/eCommerce Component 01 Account.svg)
 
 <br>
 >This product category is a component. The additional categories are elements.
 
-![eCommerce product category component](/images/eCommerce Component 02 Product Category.svg)
+![eCommerce product category component]({{site:baseurl}}/images/eCommerce Component 02 Product Category.svg)

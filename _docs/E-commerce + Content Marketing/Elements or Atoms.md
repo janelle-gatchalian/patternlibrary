@@ -11,4 +11,4 @@ order: 4
 Each of the pages in the breadcrumbs are elements.
 <br>
 <br>
-![Bake and Take navigation](/images/Bake and Take navigation element.svg)
+![Bake and Take navigation]({{site:baseurl}}/images/Bake and Take navigation element.svg)

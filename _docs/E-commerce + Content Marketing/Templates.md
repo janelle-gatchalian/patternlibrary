@@ -28,3 +28,19 @@ order: 1
 <br>
 #### Article Page with notification
 ![Bake and Take article page with notification]({{site:baseurl}}/images/Bake and Take article page 2 Desktop 1920.svg)
+
+<br>
+<br>
+#### Product Landing Page
+(a user is directed here after tapping a bakery name in the notification from the previous screen)
+![Bake and Take product landing page]({{site:baseurl}}/images/Bake and Take Product Landing page Desktop 1920.svg)
+
+<br>
+<br>
+#### Product Landing Page swipe state
+![Bake and Take article page with notification]({{site:baseurl}}/images/Bake and Take Product Landing page swipe state Desktop 1920.svg)
+
+<br>
+<br>
+#### Product Detail Page
+![Bake and Take product detail Page]({{site:baseurl}}/images/Bake and Take Product Detail page Desktop 1920.svg)

@@ -10,19 +10,19 @@ order: 1
 <br>
 >This is the home page with a repeatable header.
 
-![eCommerce home page template](/images/eCommerce 01 Home Desktop 1920.svg)
+![eCommerce home page template]({{site:baseurl}}/images/eCommerce 01 Home Desktop 1920.svg)
 
 <br>
 >This is a categories page with a repeatable menu.
 
-![eCommerce category page template](/images/eCommerce 02 Categories Desktop 1920.svg)
+![eCommerce category page template]({{site:baseurl}}/images/eCommerce 02 Categories Desktop 1920.svg)
 
 <br>
 >This is another categories page with a repeatable category menu.
 
-![eCommerce category page 2 template](/images/eCommerce 03 Categories Desktop 2 1920.svg)
+![eCommerce category page 2 template]({{site:baseurl}}/images/eCommerce 03 Categories Desktop 2 1920.svg)
 
 <br>
 >This is a product page with repeatable product modules.
 
-![eCommerce product page template](/images/eCommerce 04 Product Page Desktop 1920.svg)
+![eCommerce product page template]({{site:baseurl}}/images/eCommerce 04 Product Page Desktop 1920.svg)

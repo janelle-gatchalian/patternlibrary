@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="12062.119 340 511.638 371.594">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fafafa;
+      }
+
+      .cls-2, .cls-3, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        stroke: #95989a;
+      }
+
+      .cls-2 {
+        opacity: 0.302;
+      }
+
+      .cls-3 {
+        opacity: 0.291;
+      }
+
+      .cls-4 {
+        font-size: 24px;
+        opacity: 0.153;
+      }
+
+      .cls-4, .cls-5, .cls-7 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-5, .cls-7 {
+        font-size: 36px;
+      }
+
+      .cls-5 {
+        opacity: 0.15;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        opacity: 0.93;
+      }
+
+      .cls-8 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill-rule: evenodd;
+        opacity: 0.54;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+
+      .cls-12 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="12062.119" y="340" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Content_Image_and_Text_Block_component" data-name="Content Image and Text Block component" transform="translate(11975.5 113)">
+    <g id="Group">
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, -11975.5, -113)">
+        <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="457.638" height="317.594" transform="translate(12089.12 358)"/>
+      </g>
+      <line id="Line_19" data-name="Line 19" class="cls-2" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+      <line id="Line_20" data-name="Line 20" class="cls-3" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+    </g>
+    <text id="_Bake_Time:_" data-name="
+Bake Time:
+* * * * *" class="cls-4" transform="translate(367 475)"><tspan x="0" y="0"></tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+    <text id="Blueberry_Donuts" data-name="Blueberry Donuts" class="cls-5" transform="translate(205 393)"><tspan x="0" y="0">Blueberry Donuts</tspan></text>
+    <g id="Rectangle_6" data-name="Rectangle 6" class="cls-6" transform="translate(113.5 233)">
+      <rect class="cls-11" width="458" height="330"/>
+      <rect class="cls-9" x="0.5" y="0.5" width="457" height="329"/>
+    </g>
+    <text id="Blueberry_Donuts_2.00_each" data-name="Blueberry Donuts
+$2.00/each" class="cls-7" transform="translate(210 326)"><tspan x="0" y="0">Blueberry Donuts</tspan><tspan class="cls-8"><tspan x="0" y="42">$2.00/each</tspan></tspan></text>
+    <g id="Heart_Symbol" data-name="Heart Symbol" transform="translate(-718.5 361)">
+      <rect id="rectangle-3" data-name="rectangle" class="cls-9" width="98.5" height="96" transform="translate(953 78)"/>
+      <path id="path" class="cls-10" d="M39.938,17C37.188,10.072,29.484,5,21.469,5,11.032,5,3,12.728,3,23,3,37.116,18.567,48.032,39.938,69c21.37-20.968,36.938-31.884,36.938-46,0-10.272-8.032-18-18.469-18C50.383,5,42.687,10.072,39.938,17Z" transform="translate(962.313 93)"/>
+    </g>
+    <g id="Add_to_cart_symbol" data-name="Add to cart symbol" transform="translate(-522.5 361)">
+      <rect id="rectangle-4" data-name="rectangle" class="cls-9" width="96" height="96" transform="translate(901 78)"/>
+      <path id="path-2" data-name="path" class="cls-10" d="M29,5V29H5v8H29V61h8V37H61V29H37V5Z" transform="translate(916 93)"/>
+    </g>
+  </g>
+</svg>

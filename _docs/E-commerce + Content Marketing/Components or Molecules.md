@@ -7,8 +7,12 @@ order: 3
 <br>
 
 #### Content Block
-![Bake and Take content block](/images/Bake and Take Content Image and Text Block component.svg)
+![Bake and Take content block]({{site:baseurl}}/images/Bake and Take Content Image and Text Block component.svg)
 
 <br>
 #### Content Block repeating in related articles module
-![Bake and Take content block repeating](/images/Bake and Take Content Image and Text Block component 2.svg)
+![Bake and Take content block repeating]({{site:baseurl}}/images/Bake and Take Content Image and Text Block component 2.svg)
+
+<br>
+#### Content Block repeating in related articles module
+![Bake and Take content block repeating]({{site:baseurl}}/images/Bake and Take Product Swipe component.svg)

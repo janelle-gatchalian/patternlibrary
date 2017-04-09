@@ -1,0 +1,806 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="13959 0 1920 1420">
+  <defs>
+    <style>
+      .cls-1, .cls-21, .cls-30, .cls-31, .cls-48 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Product_Detail_page);
+      }
+
+      .cls-3 {
+        opacity: 0.894;
+      }
+
+      .cls-18, .cls-19, .cls-4 {
+        fill: #fafafa;
+      }
+
+      .cls-5 {
+        font-size: 48px;
+        opacity: 0.874;
+      }
+
+      .cls-36, .cls-42, .cls-5 {
+        font-family: Roboto-Bold, Roboto;
+        font-weight: 700;
+      }
+
+      .cls-34, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-37, .cls-7 {
+        opacity: 0.54;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-22, .cls-26, .cls-8, .cls-9 {
+        font-size: 24px;
+      }
+
+      .cls-11, .cls-13, .cls-14, .cls-15, .cls-20, .cls-22, .cls-23, .cls-26, .cls-27, .cls-29, .cls-32, .cls-33, .cls-35, .cls-39, .cls-40, .cls-41, .cls-44, .cls-45, .cls-46, .cls-8, .cls-9 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-8 {
+        opacity: 0.38;
+      }
+
+      .cls-9 {
+        opacity: 0.542;
+      }
+
+      .cls-10, .cls-19, .cls-20 {
+        opacity: 0.25;
+      }
+
+      .cls-11, .cls-44 {
+        font-size: 32px;
+      }
+
+      .cls-11 {
+        opacity: 0.94;
+      }
+
+      .cls-12 {
+        fill: #9f9c9c;
+      }
+
+      .cls-13, .cls-29 {
+        fill: #f4f6f7;
+        opacity: 0.894;
+      }
+
+      .cls-14 {
+        opacity: 0.538;
+      }
+
+      .cls-15 {
+        opacity: 0.541;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-17 {
+        fill: #c6c5c7;
+        opacity: 0.283;
+      }
+
+      .cls-17, .cls-21, .cls-30, .cls-31, .cls-34 {
+        stroke: #95989a;
+      }
+
+      .cls-18 {
+        opacity: 0;
+      }
+
+      .cls-20, .cls-23, .cls-27, .cls-41, .cls-42 {
+        font-size: 36px;
+      }
+
+      .cls-22 {
+        opacity: 0.749;
+      }
+
+      .cls-23 {
+        opacity: 0.754;
+      }
+
+      .cls-24 {
+        opacity: 0.086;
+      }
+
+      .cls-25 {
+        opacity: 0.055;
+      }
+
+      .cls-26 {
+        opacity: 0.74;
+      }
+
+      .cls-27 {
+        opacity: 0.749;
+      }
+
+      .cls-28 {
+        opacity: 0.159;
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-29 {
+        font-size: 30px;
+      }
+
+      .cls-30 {
+        opacity: 0.302;
+      }
+
+      .cls-31 {
+        opacity: 0.291;
+      }
+
+      .cls-32, .cls-35 {
+        font-size: 50px;
+      }
+
+      .cls-32 {
+        opacity: 0.153;
+      }
+
+      .cls-33 {
+        font-size: 75px;
+        opacity: 0.15;
+      }
+
+      .cls-35 {
+        opacity: 0.93;
+      }
+
+      .cls-36 {
+        font-size: 55px;
+      }
+
+      .cls-37, .cls-48 {
+        fill-rule: evenodd;
+      }
+
+      .cls-38 {
+        opacity: 0.099;
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-39 {
+        font-size: 18px;
+      }
+
+      .cls-39, .cls-46 {
+        opacity: 0.539;
+      }
+
+      .cls-40 {
+        font-size: 26px;
+      }
+
+      .cls-40, .cls-44 {
+        opacity: 0.949;
+      }
+
+      .cls-41 {
+        opacity: 0.075;
+      }
+
+      .cls-42 {
+        opacity: 0.255;
+      }
+
+      .cls-43 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-45 {
+        font-size: 42px;
+      }
+
+      .cls-46 {
+        font-size: 14px;
+      }
+
+      .cls-47 {
+        font-size: 19px;
+      }
+
+      .cls-49 {
+        stroke: none;
+      }
+
+      .cls-50 {
+        filter: url(#rectangle-13);
+      }
+
+      .cls-51 {
+        filter: url(#Send_me_market_offerings_button.-5);
+      }
+
+      .cls-52 {
+        filter: url(#Search_bar_for_address-2);
+      }
+
+      .cls-53 {
+        filter: url(#rectangle-12);
+      }
+
+      .cls-54 {
+        filter: url(#rectangle-11);
+      }
+
+      .cls-55 {
+        filter: url(#rectangle-10);
+      }
+
+      .cls-56 {
+        filter: url(#rectangle-9);
+      }
+
+      .cls-57 {
+        filter: url(#rectangle-8);
+      }
+
+      .cls-58 {
+        filter: url(#rectangle-7);
+      }
+
+      .cls-59 {
+        filter: url(#Rectangle_6);
+      }
+
+      .cls-60 {
+        filter: url(#rectangle-6);
+      }
+
+      .cls-61 {
+        filter: url(#Send_me_market_offerings_button.-4);
+      }
+
+      .cls-62 {
+        filter: url(#Send_me_market_offerings_button.-3);
+      }
+
+      .cls-63 {
+        filter: url(#Send_me_market_offerings_button.-2);
+      }
+
+      .cls-64 {
+        filter: url(#rectangle-5);
+      }
+
+      .cls-65 {
+        filter: url(#rectangle-4);
+      }
+
+      .cls-66 {
+        filter: url(#rectangle-3);
+      }
+
+      .cls-67 {
+        filter: url(#Related_Articles_block);
+      }
+
+      .cls-68 {
+        filter: url(#Recipe_Content_block);
+      }
+
+      .cls-69 {
+        filter: url(#Content_Block);
+      }
+
+      .cls-70 {
+        filter: url(#Search_bar_for_address);
+      }
+
+      .cls-71 {
+        filter: url(#Field_for_Name);
+      }
+
+      .cls-72 {
+        filter: url(#Send_me_market_offerings_button.);
+      }
+
+      .cls-73 {
+        filter: url(#Sign_up_block);
+      }
+
+      .cls-74 {
+        filter: url(#rectangle-2);
+      }
+
+      .cls-75 {
+        filter: url(#rectangle);
+      }
+    </style>
+    <filter id="rectangle" x="13932" y="-18" width="1974" height="200" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-2" x="14003" y="20.192" width="239" height="65.308" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sign_up_block" x="13932" y="1064" width="1974" height="268.378" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Send_me_market_offerings_button." x="15386.787" y="1144.5" width="265.439" height="94.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Field_for_Name" x="14335.719" y="1144.5" width="385.131" height="81.363" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Search_bar_for_address" x="14819.719" y="1144.5" width="468.131" height="81.363" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Content_Block" x="13933" y="1279" width="1974" height="177" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-7"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="1838" height="38"/>
+    </clipPath>
+    <filter id="Recipe_Content_block" x="13932" y="129" width="1974" height="743" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-8"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Related_Articles_block" x="13932" y="821" width="1974" height="299" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-9"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-3" x="14652.119" y="340" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-10"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-4" x="14052.119" y="363" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-11"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-5" x="15252.119" y="340" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-12"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="1467.439" height="76.742"/>
+    </clipPath>
+    <filter id="Send_me_market_offerings_button.-2" x="14168.787" y="704.5" width="265.439" height="94.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Send_me_market_offerings_button.-3" x="14772.787" y="704.5" width="265.439" height="94.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Send_me_market_offerings_button.-4" x="15376.787" y="704.5" width="265.439" height="94.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-6" x="14339.273" y="337.169" width="1100.741" height="720.135" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-16"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6" x="14362" y="352" width="1065.57" height="710.156" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-17"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect class="cls-1" width="1326.075" height="186.592"/>
+    </clipPath>
+    <filter id="rectangle-7" x="14206.582" y="877.85" width="367.993" height="221.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-18"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-8" x="14699.582" y="877.85" width="367.993" height="221.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-19"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-9" x="15192.582" y="877.85" width="367.993" height="221.743" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-20"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect class="cls-1" width="990.075" height="148.592"/>
+    </clipPath>
+    <filter id="rectangle-10" x="14368.552" y="854.591" width="253.315" height="198.19" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-21"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-11" x="14751.552" y="854.591" width="253.315" height="198.19" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-22"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-12" x="15134.552" y="854.591" width="253.315" height="198.19" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-23"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Search_bar_for_address-2" x="14989.484" y="561.073" width="142.339" height="93.302" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-24"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Send_me_market_offerings_button.-5" x="14926.787" y="669.5" width="265.439" height="94.742" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-25"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-25"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-13" x="14445.043" y="398.694" width="429.984" height="389.177" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-26"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-26"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Product_Detail_page">
+      <rect x="13959" width="1920" height="1420"/>
+    </clipPath>
+  </defs>
+  <g id="Product_Detail_page" data-name="Product Detail page" class="cls-2">
+    <rect class="cls-6" x="13959" width="1920" height="1420"/>
+    <g id="Header_Module" data-name="Header Module" class="cls-3" transform="translate(13959)">
+      <g class="cls-75" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="rectangle-14" data-name="rectangle" class="cls-4" d="M0,0H1920V146H0Z" transform="translate(13959)"/>
+      </g>
+      <g id="Bake_and_Take_Logo_Element" data-name="Bake and Take Logo Element" transform="translate(-71 -2)">
+        <text id="Bake_and_Take" data-name="Bake and Take" class="cls-5" transform="translate(875 89)"><tspan x="0" y="0">Bake and Take</tspan></text>
+      </g>
+      <g id="Search_bar_for_craving_Component" data-name="Search bar for craving Component">
+        <g class="cls-74" transform="matrix(1, 0, 0, 1, -13959, 0)">
+          <rect id="rectangle-15" data-name="rectangle" class="cls-6" width="221" height="47.308" rx="1" transform="translate(14012 26.19)"/>
+        </g>
+        <g id="Search_icon" data-name="Search icon" transform="translate(5)">
+          <g id="ic_search_" data-name="ic_search " class="cls-7" transform="translate(13.35 14.8)">
+            <rect id="square" class="cls-1" width="48" height="48" transform="translate(31.65 47.7)"/>
+            <path id="path" d="M59.4,72.7H57.8l-.6-.6a12.518,12.518,0,0,0,3.2-8.4,13,13,0,1,0-13,13,12.518,12.518,0,0,0,8.4-3.2l.6.6v1.6l10,10,3-3Zm-12,0a9,9,0,1,1,9-9A8.963,8.963,0,0,1,47.4,72.7Z" transform="translate(3.25 -29)"/>
+          </g>
+        </g>
+        <text id="Search_for_craving" data-name="Search for craving" class="cls-8" transform="translate(127 59.5)"><tspan x="0" y="0">Recipes?</tspan></text>
+        <text id="Browse_recipes" data-name="Browse recipes" class="cls-9" transform="translate(53 107.5)"><tspan x="0" y="0">Browse recipes.</tspan></text>
+      </g>
+      <text id="Basket" class="cls-9" transform="translate(1788 56.5)"><tspan x="0" y="0">Basket</tspan></text>
+      <text id="Fresh_Bakes" data-name="Fresh Bakes" class="cls-9" transform="translate(1625 56.5)"><tspan x="0" y="0">Fresh Bakes</tspan></text>
+      <text id="Log_in" data-name="Log in" class="cls-9" transform="translate(1524 56.5)"><tspan x="0" y="0">Log in </tspan></text>
+    </g>
+    <g id="Sign_Up_Module" data-name="Sign Up Module" class="cls-10" transform="translate(13959)">
+      <g class="cls-73" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="Sign_up_block-2" data-name="Sign up block" class="cls-4" d="M0,0H1920V214.378H0Z" transform="translate(13959 1082)"/>
+      </g>
+      <text id="Sign_up_for_recipes." data-name="Sign up for recipes." class="cls-11" transform="translate(977 1127)"><tspan x="-136.867" y="0">Sign up for recipes.</tspan></text>
+      <g class="cls-72" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="Send_me_market_offerings_button.-6" data-name="Send me market offerings button." class="cls-12" d="M.774.5H247.666c.151,0,.274.26.274.581V76.661c0,.321-.123.581-.274.581H.774c-.151,0-.274-.26-.274-.581V1.081C.5.76.623.5.774.5Z" transform="translate(15395.29 1150)"/>
+      </g>
+      <text id="Field_for_Email_Address" data-name="Field for Email Address" class="cls-13" transform="translate(1473 1183)"><tspan x="0" y="0">Send me market</tspan><tspan x="0" y="28">offerings.</tspan></text>
+      <g class="cls-71" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="Field_for_Name-2" data-name="Field for Name" class="cls-6" d="M.906.5H367.224a.448.448,0,0,1,.406.48v62.4a.448.448,0,0,1-.406.48H.906a.448.448,0,0,1-.406-.48V.98A.448.448,0,0,1,.906.5Z" transform="translate(14344.22 1150)"/>
+      </g>
+      <g class="cls-70" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="Search_bar_for_address-3" data-name="Search bar for address" class="cls-6" d="M1,.5H450.132a.489.489,0,0,1,.5.48v62.4a.489.489,0,0,1-.5.48H1a.489.489,0,0,1-.5-.48V.98A.489.489,0,0,1,1,.5Z" transform="translate(14828.22 1150)"/>
+      </g>
+      <text id="Name" class="cls-14" transform="translate(386 1239)"><tspan x="0" y="0">Name</tspan></text>
+      <text id="Email_Address" data-name="Email Address" class="cls-15" transform="translate(870 1239)"><tspan x="0" y="0">Email Address</tspan></text>
+      <text id="Field_for_Email_Address-2" data-name="Field for Email Address" class="cls-13" transform="translate(1473 1183)"><tspan x="0" y="0">Send me market</tspan><tspan x="0" y="28">offerings.</tspan></text>
+    </g>
+    <g id="Footer_Module" data-name="Footer Module" class="cls-10" transform="translate(13959)">
+      <g class="cls-69" transform="matrix(1, 0, 0, 1, -13959, 0)">
+        <path id="Content_Block-2" data-name="Content Block" class="cls-4" d="M0,0H1920V123H0Z" transform="translate(13960 1297)"/>
+      </g>
+      <g id="Footer_Grid" data-name="Footer Grid" class="cls-16" transform="translate(82 1344)">
+        <g id="Group" transform="translate(-60 -1403)">
+          <g id="Rectangle_1" data-name="Rectangle 1" class="cls-17" transform="translate(60 1403)">
+            <rect class="cls-49" width="274" height="39" rx="2"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="273" height="38" rx="1.5"/>
+          </g>
+        </g>
+        <g id="Group-2" data-name="Group" transform="translate(312 -1403)">
+          <g id="Rectangle_1-2" data-name="Rectangle 1" class="cls-17" transform="translate(60 1403)">
+            <rect class="cls-49" width="274" height="39" rx="2"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="273" height="38" rx="1.5"/>
+          </g>
+        </g>
+        <g id="Group-3" data-name="Group" transform="translate(684 -1403)">
+          <g id="Rectangle_1-3" data-name="Rectangle 1" class="cls-17" transform="translate(60 1403)">
+            <rect class="cls-49" width="274" height="39" rx="2"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="273" height="38" rx="1.5"/>
+          </g>
+        </g>
+        <g id="Group-4" data-name="Group" transform="translate(1056 -1403)">
+          <g id="Rectangle_1-4" data-name="Rectangle 1" class="cls-17" transform="translate(60 1403)">
+            <rect class="cls-49" width="274" height="39" rx="2"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="273" height="38" rx="1.5"/>
+          </g>
+        </g>
+        <g id="Group-5" data-name="Group" transform="translate(1428 -1403)">
+          <g id="Rectangle_1-5" data-name="Rectangle 1" class="cls-17" transform="translate(60 1403)">
+            <rect class="cls-49" width="274" height="39" rx="2"/>
+            <rect class="cls-1" x="0.5" y="0.5" width="273" height="38" rx="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="cls-68" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Recipe_Content_block-2" data-name="Recipe Content block" class="cls-18" d="M0,0H1920V689H0Z" transform="translate(13959 147)"/>
+    </g>
+    <g class="cls-67" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Related_Articles_block-2" data-name="Related Articles block" class="cls-19" d="M0,0H1920V245H0Z" transform="translate(13959 839)"/>
+    </g>
+    <text id="Farmer_s_Market_Recipes_Donut_Hole" data-name="Farmer’s Market Recipes / Donut Hole" class="cls-20" transform="translate(13999 198)"><tspan x="0" y="0">Farmer’s Market Recipes / Donut Hole</tspan></text>
+    <g id="Content_Image_and_Text_Block_component" data-name="Content Image and Text Block component" class="cls-10" transform="translate(14565.5 113)">
+      <g id="Group-6" data-name="Group">
+        <g class="cls-66" transform="matrix(1, 0, 0, 1, -14565.5, -113)">
+          <rect id="rectangle-16" data-name="rectangle" class="cls-4" width="457.638" height="317.594" transform="translate(14679.12 358)"/>
+        </g>
+        <line id="Line_19" data-name="Line 19" class="cls-21" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20" data-name="Line 20" class="cls-21" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <text id="_Bake_Time:_" data-name="
+Bake Time:
+* * * * *" class="cls-22" transform="translate(367 475)"><tspan x="0" y="0"></tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      <text id="Blueberry_Donuts" data-name="Blueberry Donuts" class="cls-23" transform="translate(205 393)"><tspan x="0" y="0">Blueberry Donuts</tspan></text>
+    </g>
+    <g id="Content_Image_and_Text_Block_component-2" data-name="Content Image and Text Block component" class="cls-24" transform="translate(13965.5 136)">
+      <g id="Group_55" data-name="Group 55">
+        <g class="cls-65" transform="matrix(1, 0, 0, 1, -13965.5, -136)">
+          <rect id="rectangle-17" data-name="rectangle" class="cls-4" width="457.638" height="317.594" transform="translate(14079.12 381)"/>
+        </g>
+        <line id="Line_5" data-name="Line 5" class="cls-21" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_6" data-name="Line 6" class="cls-21" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <text id="_Bake_Time:_2" data-name="
+Bake Time:
+* * * * *" class="cls-22" transform="translate(367 475)"><tspan x="0" y="0"></tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      <text id="Blueberry_Donuts-2" data-name="Blueberry Donuts" class="cls-23" transform="translate(205 393)"><tspan x="0" y="0">Blueberry Donuts</tspan></text>
+    </g>
+    <g id="Content_Image_and_Text_Block_component-3" data-name="Content Image and Text Block component" class="cls-25" transform="translate(15165.5 113)">
+      <g id="Group-7" data-name="Group">
+        <g class="cls-64" transform="matrix(1, 0, 0, 1, -15165.5, -113)">
+          <rect id="rectangle-18" data-name="rectangle" class="cls-4" width="457.638" height="317.594" transform="translate(15279.12 358)"/>
+        </g>
+        <line id="Line_19-2" data-name="Line 19" class="cls-21" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-2" data-name="Line 20" class="cls-21" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <text id="_Bake_Time:_3" data-name="
+Bake Time:
+* * * * *" class="cls-26" transform="translate(367 475)"><tspan x="0" y="0"></tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      <text id="Blueberry_Donuts-3" data-name="Blueberry Donuts" class="cls-27" transform="translate(205 393)"><tspan x="0" y="0">Blueberry Donuts</tspan></text>
+    </g>
+    <g id="Add_to_basket_grid" data-name="Add to basket grid" class="cls-28" transform="translate(14177.787 710.5)">
+      <g id="Add_to_Basket_button" data-name="Add to Basket button" transform="translate(-233.787 -710.5)">
+        <g class="cls-63" transform="matrix(1, 0, 0, 1, -13944, 0)">
+          <path id="Send_me_market_offerings_button.-7" data-name="Send me market offerings button." class="cls-12" d="M.774.5H247.666c.151,0,.274.26.274.581V76.661c0,.321-.123.581-.274.581H.774c-.151,0-.274-.26-.274-.581V1.081C.5.76.623.5.774.5Z" transform="translate(14177.29 710)"/>
+        </g>
+        <text id="Add_to_Basket" data-name="Add to Basket" class="cls-29" transform="translate(265 759)"><tspan x="0" y="0">Add to Basket</tspan></text>
+      </g>
+      <g id="Add_to_Basket_button-2" data-name="Add to Basket button" transform="translate(370.213 -710.5)">
+        <g class="cls-62" transform="matrix(1, 0, 0, 1, -14548, 0)">
+          <path id="Send_me_market_offerings_button.-8" data-name="Send me market offerings button." class="cls-12" d="M.774.5H247.666c.151,0,.274.26.274.581V76.661c0,.321-.123.581-.274.581H.774c-.151,0-.274-.26-.274-.581V1.081C.5.76.623.5.774.5Z" transform="translate(14781.29 710)"/>
+        </g>
+        <text id="Add_to_Basket-2" data-name="Add to Basket" class="cls-29" transform="translate(265 759)"><tspan x="0" y="0">Add to Basket</tspan></text>
+      </g>
+      <g id="Add_to_Basket_button-3" data-name="Add to Basket button" transform="translate(974.213 -710.5)">
+        <g class="cls-61" transform="matrix(1, 0, 0, 1, -15152, 0)">
+          <path id="Send_me_market_offerings_button.-9" data-name="Send me market offerings button." class="cls-12" d="M.774.5H247.666c.151,0,.274.26.274.581V76.661c0,.321-.123.581-.274.581H.774c-.151,0-.274-.26-.274-.581V1.081C.5.76.623.5.774.5Z" transform="translate(15385.29 710)"/>
+        </g>
+        <text id="Add_to_Basket-3" data-name="Add to Basket" class="cls-29" transform="translate(265 759)"><tspan x="0" y="0">Add to Basket</tspan></text>
+      </g>
+    </g>
+    <g id="Group-8" data-name="Group" transform="translate(14366 347.828)">
+      <g class="cls-60" transform="matrix(1, 0, 0, 1, -14366, -347.83)">
+        <rect id="rectangle-19" data-name="rectangle" class="cls-4" width="1046.741" height="666.135" transform="translate(14366.27 355.17)"/>
+      </g>
+      <line id="Line_19-3" data-name="Line 19" class="cls-30" x2="1045.289" y2="664.788"/>
+      <line id="Line_20-3" data-name="Line 20" class="cls-31" x1="1045.289" y2="664.88" transform="translate(0 0.01)"/>
+    </g>
+    <text id="_Bake_Time:_4" data-name="
+Bake Time:
+* * * * *" class="cls-32" transform="translate(14945.823 837.438)"><tspan x="0" y="0"></tspan><tspan x="0" y="58">Bake Time:</tspan><tspan x="0" y="116">* * * * *</tspan></text>
+    <text id="Blueberry_Donuts-4" data-name="Blueberry Donuts" class="cls-33" transform="translate(14575.285 666.375)"><tspan x="0" y="0">Blueberry Donuts</tspan></text>
+    <g class="cls-59" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_6-2" data-name="Rectangle 6" class="cls-34" transform="translate(14365 355)">
+        <rect class="cls-49" width="1047.57" height="692.156"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="1046.57" height="691.156"/>
+      </g>
+    </g>
+    <text id="Blueberry_Donuts_2.00_each" data-name="Blueberry Donuts
+$2.00/each" class="cls-35" transform="translate(14892.722 476.847)"><tspan x="0" y="0">Blueberry Donuts</tspan><tspan class="cls-36"><tspan x="0" y="63">$2.00/each</tspan></tspan></text>
+    <g id="Add_to_cart_symbol" data-name="Add to cart symbol" transform="translate(15128.127 565.073)">
+      <rect id="rectangle-20" data-name="rectangle" class="cls-1" width="80" height="80" transform="translate(0 0)"/>
+      <path id="path-2" data-name="path" class="cls-37" d="M21.954,5V21.9H5v5.633H21.954v16.9h5.651v-16.9H44.56V21.9H27.606V5Z" transform="translate(15.183 15.172)"/>
+    </g>
+    <path id="Minus_symbol" data-name="Minus symbol" class="cls-37" d="M21.954,21.9H5v5.633H44.56V21.9H21.954Z" transform="translate(14930.311 583.245)"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-38" transform="translate(14233.5 894.002)">
+      <g id="Related_Article_Block" data-name="Related Article Block" transform="translate(-113.5 -658.5)">
+        <g id="Group-9" data-name="Group" transform="translate(113.5 658.5)">
+          <g class="cls-58" transform="matrix(1, 0, 0, 1, -14233.5, -894)">
+            <rect id="rectangle-21" data-name="rectangle" class="cls-4" width="313.993" height="167.743" transform="translate(14233.58 895.85)"/>
+          </g>
+          <line id="Line_19-4" data-name="Line 19" class="cls-21" x2="313.557" y2="167.404" transform="translate(0 0)"/>
+          <line id="Line_20-4" data-name="Line 20" class="cls-21" x1="313.557" y2="167.427" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_5" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(287.431 778.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe" data-name="Merry Berry Cafe" class="cls-40" transform="translate(174 752.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+      <g id="Related_Article_Block-2" data-name="Related Article Block" transform="translate(379.5 -658.5)">
+        <g id="Group-10" data-name="Group" transform="translate(113.5 658.5)">
+          <g class="cls-57" transform="matrix(1, 0, 0, 1, -14726.5, -894)">
+            <rect id="rectangle-22" data-name="rectangle" class="cls-4" width="313.993" height="167.743" transform="translate(14726.58 895.85)"/>
+          </g>
+          <line id="Line_19-5" data-name="Line 19" class="cls-21" x2="313.557" y2="167.404" transform="translate(0 0)"/>
+          <line id="Line_20-5" data-name="Line 20" class="cls-21" x1="313.557" y2="167.427" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_6" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(287.431 778.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe-2" data-name="Merry Berry Cafe" class="cls-40" transform="translate(174 752.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+      <g id="Related_Article_Block-3" data-name="Related Article Block" transform="translate(872.5 -658.5)">
+        <g id="Group-11" data-name="Group" transform="translate(113.5 658.5)">
+          <g class="cls-56" transform="matrix(1, 0, 0, 1, -15219.5, -894)">
+            <rect id="rectangle-23" data-name="rectangle" class="cls-4" width="313.993" height="167.743" transform="translate(15219.58 895.85)"/>
+          </g>
+          <line id="Line_19-6" data-name="Line 19" class="cls-21" x2="313.557" y2="167.404" transform="translate(0 0)"/>
+          <line id="Line_20-6" data-name="Line 20" class="cls-21" x1="313.557" y2="167.427" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_7" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(287.431 778.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe-3" data-name="Merry Berry Cafe" class="cls-40" transform="translate(174 752.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+    </g>
+    <text id="Also_in_the_oven:" data-name="Also in the oven:" class="cls-41" transform="translate(14234 873)"><tspan x="0" y="0">Also in the oven:</tspan></text>
+    <text id="Donut_Hole_7227_Westwood_Blvd._Los_Angeles_CA_90027_Today:_9_am_4_pm" data-name="Donut Hole 7227 Westwood Blvd. Los Angeles, CA 90027     Today: 9 am–4 pm" class="cls-42" transform="translate(13999 259)"><tspan x="0" y="0" xml:space="preserve">Donut Hole 7227 Westwood Blvd. Los Angeles, CA 90027     Today: 9 am–4 pm</tspan></text>
+    <g id="Repeat_Grid_6" data-name="Repeat Grid 6" class="cls-43" transform="translate(14395.5 871.002)">
+      <g id="Related_Article_Block-4" data-name="Related Article Block" transform="translate(-113.5 -658.5)">
+        <g id="Group_59" data-name="Group 59" transform="translate(113.5 658.5)">
+          <g class="cls-55" transform="matrix(1, 0, 0, 1, -14395.5, -871)">
+            <rect id="rectangle-24" data-name="rectangle" class="cls-4" width="199.315" height="144.19" transform="translate(14395.55 872.59)"/>
+          </g>
+          <line id="Line_27" data-name="Line 27" class="cls-21" x2="199.039" y2="143.899" transform="translate(0 0)"/>
+          <line id="Line_28" data-name="Line 28" class="cls-21" x1="199.039" y2="143.919" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_8" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(226.431 758.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe-4" data-name="Merry Berry Cafe" class="cls-40" transform="translate(119 740.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+      <g id="Related_Article_Block-5" data-name="Related Article Block" transform="translate(269.5 -658.5)">
+        <g id="Group_60" data-name="Group 60" transform="translate(113.5 658.5)">
+          <g class="cls-54" transform="matrix(1, 0, 0, 1, -14778.5, -871)">
+            <rect id="rectangle-25" data-name="rectangle" class="cls-4" width="199.315" height="144.19" transform="translate(14778.55 872.59)"/>
+          </g>
+          <line id="Line_29" data-name="Line 29" class="cls-21" x2="199.039" y2="143.899" transform="translate(0 0)"/>
+          <line id="Line_30" data-name="Line 30" class="cls-21" x1="199.039" y2="143.919" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_9" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(226.431 758.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe-5" data-name="Merry Berry Cafe" class="cls-40" transform="translate(119 740.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+      <g id="Related_Article_Block-6" data-name="Related Article Block" transform="translate(652.5 -658.5)">
+        <g id="Group_61" data-name="Group 61" transform="translate(113.5 658.5)">
+          <g class="cls-53" transform="matrix(1, 0, 0, 1, -15161.5, -871)">
+            <rect id="rectangle-26" data-name="rectangle" class="cls-4" width="199.315" height="144.19" transform="translate(15161.55 872.59)"/>
+          </g>
+          <line id="Line_31" data-name="Line 31" class="cls-21" x2="199.039" y2="143.899" transform="translate(0 0)"/>
+          <line id="Line_32" data-name="Line 32" class="cls-21" x1="199.039" y2="143.919" transform="translate(0 0.002)"/>
+        </g>
+        <text id="_Bake_Time:_10" data-name="
+Bake Time:
+* * * * *" class="cls-39" transform="translate(226.431 758.623)"><tspan x="0" y="0"></tspan><tspan x="0" y="21">Bake Time:</tspan><tspan x="0" y="42">* * * * *</tspan></text>
+        <text id="Merry_Berry_Cafe-6" data-name="Merry Berry Cafe" class="cls-40" transform="translate(119 740.498)"><tspan x="0" y="0">Merry Berry Cafe</tspan></text>
+      </g>
+    </g>
+    <text id="Also_from_this_bakery:" data-name="Also from this bakery:" class="cls-44" transform="translate(14396 865)"><tspan x="0" y="0">Also from this bakery:</tspan></text>
+    <g class="cls-52" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Search_bar_for_address-4" data-name="Search bar for address" class="cls-6" d="M.638.5H124.7c.076,0,.138.255.138.57V75.232c0,.315-.062.57-.138.57H.638c-.076,0-.138-.255-.138-.57V1.07C.5.755.562.5.638.5Z" transform="translate(14997.98 566.57)"/>
+    </g>
+    <text id="_12" data-name="12" class="cls-45" transform="translate(15035 617)"><tspan x="0" y="0">12</tspan></text>
+    <g id="Add_to_Basket_button-4" data-name="Add to Basket button" transform="translate(14702 -35)">
+      <g class="cls-51" transform="matrix(1, 0, 0, 1, -14702, 35)">
+        <path id="Send_me_market_offerings_button.-10" data-name="Send me market offerings button." class="cls-12" d="M.774.5H247.666c.151,0,.274.26.274.581V76.661c0,.321-.123.581-.274.581H.774c-.151,0-.274-.26-.274-.581V1.081C.5.76.623.5.774.5Z" transform="translate(14935.29 675)"/>
+      </g>
+      <text id="Add_to_Basket-4" data-name="Add to Basket" class="cls-29" transform="translate(265 759)"><tspan x="0" y="0">Add to Basket</tspan></text>
+    </g>
+    <g id="Content_Image_and_Text_Block" data-name="Content Image and Text Block" transform="translate(14356.444 159.5)">
+      <g id="Group_62" data-name="Group 62" transform="translate(115.5 253.5)">
+        <g class="cls-50" transform="matrix(1, 0, 0, 1, -14471.94, -413)">
+          <rect id="rectangle-27" data-name="rectangle" class="cls-4" width="375.985" height="335.177" transform="translate(14472.04 416.69)"/>
+        </g>
+        <line id="Line_33" data-name="Line 33" class="cls-21" x2="375.463" y2="334.5"/>
+        <line id="Line_34" data-name="Line 34" class="cls-21" x1="375.463" y2="334.546" transform="translate(0 0.005)"/>
+      </g>
+      <text id="_Bake_Time:_11" data-name="
+
+Bake Time:
+* * * * *" class="cls-46" transform="translate(295.31 482.33)"><tspan x="0" y="0"></tspan><tspan x="0" y="16"></tspan><tspan class="cls-47"><tspan x="0" y="37">Bake Time:</tspan><tspan x="0" y="60">* * * * *</tspan></tspan></text>
+    </g>
+    <g id="ic_close" transform="translate(14760 350.984)">
+      <path id="path-3" data-name="path" class="cls-37" d="M41-15.4,37.4-19,23-4.6,8.6-19,5-15.4,19.4-1,5,13.4,8.6,17,23,2.6,37.4,17,41,13.4,26.6-1Z" transform="translate(577 54.016)"/>
+      <path id="path-4" data-name="path" class="cls-48" d="M24.686-3.429H0V-24H24.686Z" transform="translate(591.314 48.016)"/>
+    </g>
+  </g>
+</svg>

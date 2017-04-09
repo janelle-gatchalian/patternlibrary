@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3953 129 1974 989">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fafafa;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        stroke: #95989a;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+        opacity: 0.94;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-6, .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        opacity: 0.546;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        opacity: 0.539;
+      }
+
+      .cls-9 {
+        filter: url(#rectangle-6);
+      }
+
+      .cls-10 {
+        filter: url(#rectangle-5);
+      }
+
+      .cls-11 {
+        filter: url(#rectangle-4);
+      }
+
+      .cls-12 {
+        filter: url(#rectangle-3);
+      }
+
+      .cls-13 {
+        filter: url(#rectangle-2);
+      }
+
+      .cls-14 {
+        filter: url(#rectangle);
+      }
+
+      .cls-15 {
+        filter: url(#Recipe_Content_block);
+      }
+    </style>
+    <filter id="Recipe_Content_block" x="3953" y="129" width="1974" height="989" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="1821.757" height="807.594"/>
+    </clipPath>
+    <filter id="rectangle" x="4066.62" y="227" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-2"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-2" x="4688.62" y="227" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-3"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-3" x="5310.62" y="227" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-4"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-4" x="4066.62" y="644" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-5"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-5" x="4688.62" y="644" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-6"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="rectangle-6" x="5310.62" y="644" width="511.638" height="371.594" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-7"/>
+      <feFlood flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="1454" height="526"/>
+    </clipPath>
+  </defs>
+  <g id="Content_Block_Module" data-name="Content Block Module" transform="translate(3980)">
+    <g class="cls-15" transform="matrix(1, 0, 0, 1, -3980, 0)">
+      <path id="Recipe_Content_block-2" data-name="Recipe Content block" class="cls-2" d="M0,0H1920V935H0Z" transform="translate(3980 147)"/>
+    </g>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" class="cls-3" transform="translate(101.5 241)">
+      <g id="Group" transform="translate(-101.5 -241)">
+        <g class="cls-14" transform="matrix(1, 0, 0, 1, -3980, 0)">
+          <rect id="rectangle-7" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(4093.62 245)"/>
+        </g>
+        <line id="Line_19" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <g id="Group-2" data-name="Group" transform="translate(520.5 -241)">
+        <g class="cls-13" transform="matrix(1, 0, 0, 1, -4602, 0)">
+          <rect id="rectangle-8" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(4715.62 245)"/>
+        </g>
+        <line id="Line_19-2" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-2" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <g id="Group-3" data-name="Group" transform="translate(1142.5 -241)">
+        <g class="cls-12" transform="matrix(1, 0, 0, 1, -5224, 0)">
+          <rect id="rectangle-9" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(5337.62 245)"/>
+        </g>
+        <line id="Line_19-3" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-3" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <g id="Group-4" data-name="Group" transform="translate(-101.5 176)">
+        <g class="cls-11" transform="matrix(1, 0, 0, 1, -3980, -417)">
+          <rect id="rectangle-10" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(4093.62 662)"/>
+        </g>
+        <line id="Line_19-4" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-4" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <g id="Group-5" data-name="Group" transform="translate(520.5 176)">
+        <g class="cls-10" transform="matrix(1, 0, 0, 1, -4602, -417)">
+          <rect id="rectangle-11" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(4715.62 662)"/>
+        </g>
+        <line id="Line_19-5" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-5" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+      <g id="Group-6" data-name="Group" transform="translate(1142.5 176)">
+        <g class="cls-9" transform="matrix(1, 0, 0, 1, -5224, -417)">
+          <rect id="rectangle-12" data-name="rectangle" class="cls-2" width="457.638" height="317.594" transform="translate(5337.62 662)"/>
+        </g>
+        <line id="Line_19-6" data-name="Line 19" class="cls-4" x2="457.003" y2="316.952" transform="translate(113.5 241.5)"/>
+        <line id="Line_20-6" data-name="Line 20" class="cls-4" x1="457.003" y2="316.995" transform="translate(113.5 241.505)"/>
+      </g>
+    </g>
+    <text id="Farmer_s_Market_Recipes_Biscuits_Scones" data-name="Farmer’s Market Recipes / Biscuits &amp; Scones" class="cls-5" transform="translate(40 198)"><tspan x="0" y="0">Farmer’s Market Recipes / Biscuits &amp; Scones</tspan></text>
+    <text id="Maple_Biscuits" data-name="Maple Biscuits" class="cls-6" transform="translate(113 609)"><tspan x="0" y="0">Maple Biscuits</tspan></text>
+    <text id="Herb_Biscuits" data-name="Herb Biscuits" class="cls-6" transform="translate(113 1034)"><tspan x="0" y="0">Herb Biscuits</tspan></text>
+    <text id="Buttermilk_Scones" data-name="Buttermilk Scones" class="cls-6" transform="translate(738 1020)"><tspan x="0" y="0">Buttermilk Scones</tspan></text>
+    <text id="Comfort_Biscuits" data-name="Comfort Biscuits" class="cls-6" transform="translate(738 609)"><tspan x="0" y="0">Comfort Biscuits</tspan></text>
+    <text id="Three-Cheese_Scones" data-name="Three-Cheese Scones" class="cls-6" transform="translate(1360 609)"><tspan x="0" y="0">Three-Cheese Scones</tspan></text>
+    <text id="Walnut_Jam_Scones" data-name="Walnut Jam Scones" class="cls-6" transform="translate(1360 1020)"><tspan x="0" y="0">Walnut Jam Scones</tspan></text>
+    <g id="prep_time_and_bake_time_grid" data-name="prep time and bake time grid" class="cls-7" transform="translate(367 453)">
+      <g id="Group-7" data-name="Group" transform="translate(-367 -453)">
+        <text id="Prep_Time:_Bake_Time:_" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+      <g id="Group-8" data-name="Group" transform="translate(279 -453)">
+        <text id="Prep_Time:_Bake_Time:_2" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+      <g id="Group-9" data-name="Group" transform="translate(925 -453)">
+        <text id="Prep_Time:_Bake_Time:_3" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+      <g id="Group-10" data-name="Group" transform="translate(-367 -39)">
+        <text id="Prep_Time:_Bake_Time:_4" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+      <g id="Group-11" data-name="Group" transform="translate(279 -39)">
+        <text id="Prep_Time:_Bake_Time:_5" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+      <g id="Group-12" data-name="Group" transform="translate(925 -39)">
+        <text id="Prep_Time:_Bake_Time:_6" data-name="Prep Time:
+Bake Time:
+* * * * *" class="cls-8" transform="translate(367 475)"><tspan x="0" y="0">Prep Time:</tspan><tspan x="0" y="28">Bake Time:</tspan><tspan x="0" y="56">* * * * *</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

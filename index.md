@@ -1,8 +1,17 @@
 ---
-title: Welcome
+title: About
 ---
 
-The landscape audits I've done include the following eCommerce sites: [Warby Parker](https://www.warbyparker.com/checkout/step/information); [Virgin America](https://www.virginamerica.com/book/); and [Blue Apron](https://www.blueapron.com/users/sign_up).
+## The Pattern Library
+<br>
 
-I cover these audits in this pattern library, which is separated into **templates;
-modules or organisms; components or molecules; and elements or atoms**.
+The web pages in this library are made up of working repeatable patterns. Inspired by [Brad Frost's Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/), the design system that I document recognizes the need to develop thoughtful systems, rather than to create simple collections of web pages. In keeping Atomic Design methodology, this pattern library is organized according to a similar biology:
+- **Templates**
+- **Modules or Organisms**
+- **Components or Molecules**
+- **Elements or Atoms**
+
+### Why Pattern Libraries?
+<br>
+
+Pattern libraries are comprised of user interface patterns that can be reused to address common, known user interface challenges. Pattern libraries enable teams to rapidly design and refine user interface solutions, so that they can focus on tackling emerging problems.

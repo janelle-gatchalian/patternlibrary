@@ -7,9 +7,9 @@ order: 4
 <br>
 >The logo is a repeatable element that appears in all pages of the eCommerce site.
 
-![eCommerce logo element](/images/eCommerce element 01 logo.svg).
+![eCommerce logo element]({{site:baseurl}}/images/eCommerce element 01 logo.svg).
 
 <br>
 >Each product image is an element. Likewise, the product description, price, and color swatch are all elements.
 
-![eCommerce product element](/images/eCommerce element 02 product.svg)
+![eCommerce product element]({{site:baseurl}}/images/eCommerce element 02 product.svg)
