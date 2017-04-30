@@ -3,24 +3,25 @@ title: Modules or Organisms
 category: E-commerce
 order: 2
 ---
-## These are modules by the Scorpion design team based on [the clothing retailer Anthropologie](https://www.anthropologie.com/dresses-casual-everyday?cm_sp=FEATURES-_-SUBCATEGORY-_-DRESSES-CASUAL-EVERYDAY).
+## These are modules based on [the clothing retailer Anthropologie](https://www.anthropologie.com/dresses-casual-everyday?cm_sp=FEATURES-_-SUBCATEGORY-_-DRESSES-CASUAL-EVERYDAY).
 
 <br>
->This a search module.
 
+#### Search
 ![eCommerce search module]({{site:baseurl}}/images/eCommerce Module 01 Search.svg)
 
 <br>
->This is a menu module. Each clickable item is a component composed of product categories.
 
+#### Menu
 ![eCommerce menu module]({{site:baseurl}}/images/eCommerce Module 02 Menu.svg)
 
 <br>
->This is a category module.
 
+#### Category
 ![eCommerce category module]({{site:baseurl}}/images/eCommerce Module 03 Category.svg)
 
 <br>
->This is a product module. It includes an image component with multiple product shots, a product description element, a component with current prices and sale prices, and a component with multiple product color swatches.
 
+#### Product
+### This is a product module. The module is comprised of components such as product images, prices, product color swatches.
 ![eCommerce product module]({{site:baseurl}}/images/eCommerce Module 04 Product.svg)
